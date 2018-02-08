@@ -9,5 +9,6 @@ python style_transfer.py --choice=image --content-img-path=prague.jpg --style-im
 
 ```
 
-<img src="https://s18.postimg.org/3vqb0gjt5/prague.jpg" height="300"><img src="https://s18.postimg.org/cdzr4tl6x/udnie.jpg" height="300">
+<img src="https://s18.postimg.org/3vqb0gjt5/prague.jpg" height="300"><img src="https://s18.postimg.org/oijlzosnd/udnie2.jpg" height="300">
+    
 <img src="https://s18.postimg.org/gzvvd5rah/prague_transformed.png" height="300">
