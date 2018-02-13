@@ -1,11 +1,12 @@
 # style-transfer
 
-Generate image that combines content of a photograph with style of an artwork. 
+Generate image/video that combines content of a photograph/video with style of an artwork. 
 
 ## Usage
 
 ```
 python style_transfer.py --choice=image --content-img-path=prague.jpg --style-img-path=udnie.jpg --target-img-path=out.png 
+python style_transfer.py --choice=video --input-video-path=video.mp4 --style-img-path=udnie.jpg --target-video-path=out.mp4 
 
 ```
 
