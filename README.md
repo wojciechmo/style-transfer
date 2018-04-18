@@ -13,8 +13,8 @@ python style_transfer.py --choice=video --input-video-path=video.mp4 --style-img
     
 <img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/prague_transformed.png" height="300">
 
-<img src="https://s13.postimg.org/5y61h8sav/newyork.jpg" height="300"><img src="https://s13.postimg.org/lwer7e1yf/starrynight.jpg" height="300">
+<img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/newyork.jpg" height="300"><img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/starrynight.jpg" height="300">
     
-<img src="https://s13.postimg.org/gxr8t4ldj/newyork_transformed.png" height="300">
+<img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/newyork_transformed.png" height="300">
 
 
