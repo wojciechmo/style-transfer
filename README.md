@@ -9,7 +9,7 @@ python style_transfer.py --choice=image --content-img-path=prague.jpg --style-im
 python style_transfer.py --choice=video --input-video-path=video.mp4 --style-img-path=udnie.jpg --target-video-path=out.mp4 
 
 ```
-<img src="https://s18.postimg.org/3vqb0gjt5/prague.jpg" height="300"><img src="https://s17.postimg.org/gzhwyn03z/image.jpg" height="300">
+<img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/prague.jpg" height="300"><img src="https://github.com/WojciechMormul/style-transfer/blob/master/imgs/udine2.jpg" height="300">
     
 <img src="https://s17.postimg.org/6co3t7k8v/3939.png" height="300">
 
